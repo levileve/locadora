@@ -10,7 +10,6 @@ Ferramenta:
 - DBeaver
 - PgAdmin
 - Postman
-- Heroku
 - Postgresql
 
 Linguagem e libs principais:
