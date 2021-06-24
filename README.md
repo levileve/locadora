@@ -22,6 +22,9 @@ De mais:
 - Muitas libs...
 
 # 📝 Como usar
+
+* Para realizar os testes é recomendado baixar o Postman e utilizar o ambiente já configurado
+
 * Ambiente local:
 - Instale todo o ambiente NodeJs necessário na sua máquina
 - Instale o PgAdmin 4, crie um banco de dados com o nome de test e a senha admin ou passe as credenciais no .env
@@ -35,8 +38,6 @@ npm run start
 * Ambiente infra:
 - Segue o link:
 http://testelocadourafour-com.umbler.net/
-
-* Para realizar os testes é recomendado baixar o Postman e utilizar o ambiente já configurado
 
 # 🔗 Links
 
