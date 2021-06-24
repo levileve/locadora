@@ -36,6 +36,8 @@ npm run start
 - Segue o link:
 http://testelocadourafour-com.umbler.net/
 
+* Para realizar os testes é recomendado baixar o Postman e utilizar o ambiente já configurado
+
 # 🔗 Links
 
 - Postman:
