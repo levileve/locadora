@@ -1,0 +1,6 @@
+'use strict';Object.defineProperty(exports, "__esModule", { value: true });var _classCallCheck2 = require('babel-runtime/helpers/classCallCheck');var _classCallCheck3 = _interopRequireDefault(_classCallCheck2);var _possibleConstructorReturn2 = require('babel-runtime/helpers/possibleConstructorReturn');var _possibleConstructorReturn3 = _interopRequireDefault(_possibleConstructorReturn2);var _inherits2 = require('babel-runtime/helpers/inherits');var _inherits3 = _interopRequireDefault(_inherits2);var _extendableError = require('./extendable-error');var _extendableError2 = _interopRequireDefault(_extendableError);function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}var
+
+ForbiddenError = function (_ExtendableError) {(0, _inherits3.default)(ForbiddenError, _ExtendableError);
+  function ForbiddenError() {(0, _classCallCheck3.default)(this, ForbiddenError);return (0, _possibleConstructorReturn3.default)(this, (ForbiddenError.__proto__ || Object.getPrototypeOf(ForbiddenError)).call(this,
+    'ForbiddenError'));
+  }return ForbiddenError;}(_extendableError2.default);exports.default = ForbiddenError;
