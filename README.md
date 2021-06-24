@@ -11,11 +11,12 @@ Ferramenta:
 - PgAdmin
 - Postman
 - Heroku
+- Postgresql
 
-Linguagens e libs principais:
+Linguagem e libs principais:
 - NodeJs v14.16.0
 - Sequelize v5.22.3
-- Postgresql
+- Babel
 
 De mais:
 - Umbler
